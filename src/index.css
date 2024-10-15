@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+}
+
+.react-flow__node {
+  @apply bg-white rounded-lg shadow-md p-4;
+}
+
+.react-flow__handle {
+  @apply w-3 h-3 bg-blue-500;
+}
+
+.react-flow__edge-path {
+  @apply stroke-gray-400 stroke-2;
+}
+
+.box-shadow {
+  box-shadow: 2px 5px 23px -11px #0000001f;
+}
