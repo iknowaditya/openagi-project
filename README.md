@@ -53,7 +53,8 @@ This project is designed to provide a visual drag-and-drop interface for creatin
 
 ## Demo
 
-    ![alt text](<Screenshot 2024-10-16 054821.png>)
+![Screenshot 2024-10-16 054821](https://github.com/user-attachments/assets/76e7a5fa-1529-4766-85e3-fdcc47cae4fa)
+
 
 ## File Structure
 
